@@ -698,21 +698,24 @@
 
 
 
-  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-  <script src="/js/src/md5.min.js"></script>
-  <script type="text/javascript">
-    var gitalk = new Gitalk({
-      clientID: '40d141a152e5dc172582',
-      clientSecret: 'fa2c0917671cf3ce7abd152532105bae459c3930',
-      repo: 'nalxc.github.io',
-      owner: 'nalxc',
-      admin: ['nalxc'],
-      id: md5(location.pathname),
-      distractionFreeMode: 'true'
-    })
-    gitalk.render('gitalk-container')           
-  </script>
+  
+    
+      <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+      <script type="text/javascript">
+        const gitalk = new Gitalk({
+          clientID: '',
+          clientSecret: '',
+          repo: 'nalxc.github.io',
+          owner: '',
+          admin: ''.split(','),
+          pagerDirection: '',
+          // facebook-like distraction free mode
+          distractionFreeMode: false
+        })
+        gitalk.render('gitalk-container')
+      </script>
+    
+  
 
 
 

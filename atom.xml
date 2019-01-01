@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-12-08T18:51:28.067Z</updated>
+  <updated>2019-01-01T15:08:48.498Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,36 +17,17 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="http://yoursite.com/2018/12/09/test/"/>
-    <id>http://yoursite.com/2018/12/09/test/</id>
-    <published>2018-12-08T18:49:13.000Z</published>
-    <updated>2018-12-08T18:51:28.067Z</updated>
+    <title>happy-new-year</title>
+    <link href="http://yoursite.com/2019/01/01/happy-new-year/"/>
+    <id>http://yoursite.com/2019/01/01/happy-new-year/</id>
+    <published>2019-01-01T14:55:27.000Z</published>
+    <updated>2019-01-01T15:08:48.498Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;It-is-a-test-file&quot;&gt;&lt;a href=&quot;#It-is-a-test-file&quot; class=&quot;headerlink&quot; title=&quot;It is a test file.&quot;&gt;&lt;/a&gt;It is a test file.&lt;/h2&gt;
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2018/08/10/hello-world/"/>
-    <id>http://yoursite.com/2018/08/10/hello-world/</id>
-    <published>2018-08-09T16:41:44.115Z</published>
-    <updated>2018-08-09T16:41:44.115Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;h2 id=&quot;welcome-to-2019&quot;&gt;&lt;a href=&quot;#welcome-to-2019&quot; class=&quot;headerlink&quot; title=&quot;welcome to   2019&quot;&gt;&lt;/a&gt;welcome to   2019&lt;/h2&gt;&lt;figure class=&quot;hi
       
     
     </summary>

@@ -3,6 +3,6 @@
   <entry>
     <title><![CDATA[happy-new-year]]></title>
     <url>%2F2019%2F01%2F01%2Fhappy-new-year%2F</url>
-    <content type="text"><![CDATA[welcome to 20191fmt.println("Happy New Year!")]]></content>
+    <content type="text"><![CDATA[welcome to 20191fmt.Println("Happy New Year!")]]></content>
   </entry>
 </search>
